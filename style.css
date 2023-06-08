@@ -40,13 +40,13 @@ html, body {
     display: inline-block;
     font-size: 1em;
     font-weight: bold;
-    padding: 2em 1em;
+    padding: 1em 2em;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     position: absolute;
-    left: 130px;
-    top: 540px;
+    left: 10px;
+    top: 10px;
     font-family: Days One;
 }
 .btn--gradient {
