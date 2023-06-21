@@ -7,7 +7,7 @@ console.clear();
 class Stage {
     constructor() {
         // container
-        this.render = function () {
+        this.render = function () { 
             this.renderer.render(this.scene, this.camera);
         };
         this.add = function (elem) {
